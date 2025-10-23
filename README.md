@@ -84,7 +84,7 @@ class Actor {
 
     // Método que pode ser sobrescrito
     public void draw() {
-        // Implementação vazia - como no Actor original
+        // Implementação vazia, como no Actor original
         System.out.println(name + ": draw() não faz nada (Actor padrão)");
     }
 }
